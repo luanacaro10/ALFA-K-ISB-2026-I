@@ -1,4 +1,4 @@
-# INTRODUCCIÓN A LAS SEÑALES BIOMÉDICAS - PROYECTO FINAL
+# INTRODUCCIÓN A SEÑALES BIOMÉDICAS - PROYECTO FINAL
 
 ## Introducción
 El corazón es uno de los órganos más sensibles a las variaciones del estado fisiológico y emocional del ser humano. Su actividad eléctrica puede ser registrada de manera no invasiva mediante el electrocardiograma, pues permite medir tanto la frecuencia cardiaca, expresada en latidos por minuto, como el ritmo cardiaco, posibilitando así la identificación de variaciones fisiológicas provocadas por factores externos [1]. 
