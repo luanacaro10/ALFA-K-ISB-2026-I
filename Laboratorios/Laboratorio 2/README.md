@@ -6,6 +6,9 @@ Cuando flexionamos el codo para levantar un objeto o estabilizamos la muñeca du
 En este laboratorio se evaluaron dos músculos del miembro superior: el bíceps braquial (BB), principal flexor del codo y supinador del antebrazo, y el flexor carpi radialis (FCR), músculo del antebrazo involucrado en la flexión y desviación radial de la muñeca. El FCR se ubica en la porción central y superficial del compartimento anterior del antebrazo, lo que, junto con la localización superficial del BB, hace que ambos músculos sean ideales para el registro sEMG. Su elección permite comparar cómo responde cada músculo, con funciones distintas pero complementarias, ante diferentes demandas mecánicas.
 
 ## METODOLOGÍA
+
+
+
 ## DISCUSIÓN
 ## REFERENCIAS
 [1] B. Yu, X. Zhang, Y. Cheng, L. Liu, J. Wang, and X. Lu, "The effects of the biceps brachii and brachioradialis on elbow flexor muscle strength and spasticity in stroke patients," BioMed Res. Int., vol. 2022, Art. no. 1295908, Mar. 2022, doi: 10.1155/2022/1295908
