@@ -11,11 +11,45 @@ En este laboratorio se evaluaron dos músculos del miembro superior: el bíceps 
 
 Se contó con la participación voluntaria de una integrante del grupo, sin referir condiciones neuromusculares, lesiones en la extremidad superior ni contraindicaciones para la realización del protocolo. Previo al inicio de la sesión se explicó el procedimiento y la participante brindó su consentimiento verbal.
 
-### 2.2 Instrumentación
+### 2.2 Instrumentación y colocación de electrodos
+
+Se utilizó un sistema de adquisición de señales sEMG con electrodos de superficie bipolares proporcionados por el kit BITalino. Los electrodos fueron colocados según el protocolo de la guía de laboratorio para la adquisición de señales usando el kit BITalino.
+
+En ambos casos, los electrodos fueron colocados en alineación con las fibras musculares y centrados en el vientre muscular, respetando un espacio de separación de al menos 2 cm entre los centros.
+
+En la evaluación del músculo FCR, los electrodos se colocaron en alineación con las fibras musculares y el electrodo de referencia se ubicó en el codo.
+
+![Figura 1](Laboratorios/Laboratorio%202/imagenes/figura1.jpg)
+
+**Figura 1.** Colocación de electrodos para evaluación del músculo FCR.
+
+Para la evaluación del músculo BB, el electrodo de referencia también se posicionó en el codo y los otros dos electrodos fueron alineados con las fibras musculares.
+
+![Figura 2](Laboratorios/Laboratorio%202/imagenes/figura2.jpg)
+
+**Figura 2.** Colocación de electrodos para evaluación del músculo BB.
+
+Se hizo uso también de una laptop con OpenSignals instalado para el procesamiento y guardado de datos.
 
 ### 2.3 Protocolo experimental
 
+Se realizaron cuatro ejercicios con tres pruebas cada uno dependiendo del músculo a evaluar. El tiempo de descanso entre cada prueba fue de aproximadamente 2 minutos.
+
+El protocolo fue el siguiente:
+
+- **Ejercicios 1 y 3:** tres pruebas de flexión de codo sin contrapeso; el tipo de contracción fue flexión concéntrica. El Ejercicio 1 fue dedicado a la evaluación del músculo FCR y el Ejercicio 3 a la evaluación del músculo BB.
+
+- **Ejercicios 2 y 4:** tres pruebas de flexión con contrapeso. Un segundo participante opuso resistencia manual al movimiento de flexión, impidiendo que el participante con electrodos completara el arco de movimiento, generando así una condición de contracción isométrica máxima voluntaria (MVC).
+
+En el Ejercicio 2 se realizó una flexión de muñeca, mientras que en el Ejercicio 4 una flexión de codo, debido a los músculos evaluados.
+
+Todo dispositivo electrónico no necesario fue retirado de la zona de prueba.
+
 ### 2.4 Adquisición y preprocesamiento
+
+Las señales sEMG fueron almacenadas en archivos de texto (.txt) para su posterior análisis en Python. Los registros incluyen la evolución temporal de la señal de voltaje captada por los electrodos durante cada prueba.
+
+No se aplicaron filtros adicionales en el procesamiento reportado; los datos corresponden a la señal cruda o con procesamiento mínimo propio del sistema de adquisición.
 
 ## RESULTADOS
 
