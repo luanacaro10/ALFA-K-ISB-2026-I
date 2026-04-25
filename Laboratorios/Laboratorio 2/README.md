@@ -154,3 +154,6 @@ EEl presente informe se basa en la inspección visual de las señales sin extrae
 
 [6] P. M. R. Gouveia et al., "EMG amplitude and frequency parameters of muscular activity: Effect of resistance training based on electromyographic fatigue threshold," Journal of Electromyography and Kinesiology, vol. 17, no. 5, pp. 601–610, 2007, doi: 10.1016/j.jelekin.2007.09.001.
 
+## Anexo
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SN__Tj-o-Aq6T_Jlf-ueDq0E4eHAB2d3?usp=sharing)
