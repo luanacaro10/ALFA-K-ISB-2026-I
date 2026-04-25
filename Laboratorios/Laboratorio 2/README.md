@@ -57,16 +57,12 @@ No se aplicaron filtros adicionales en el procesamiento reportado; los datos cor
 
 ### 3.1 Ejercicio 1 — Flexión sin contrapeso
 
-Las tres pruebas del Ejercicio 1 registraron señales sEMG caracterizadas por ráfagas de actividad muscular claramente diferenciadas en el tiempo, coincidentes con las fases de contracción voluntaria. Se observó una morfología similar en las tres pruebas: picos de amplitud positivos y negativos alternantes durante las fases activas, con retorno a la línea base durante los periodos de reposo entre contracciones.
+Las tres pruebas del Ejercicio 1 registraron señales sEMG caracterizadas por rafagas de actividad muscular claramente diferenciadas en el tiempo, coincidentes con las fases de contracción voluntaria. Se observó una morfología similar en las tres pruebas: picos de amplitud positivos y negativos alternantes durante las fases activas, con retorno a la línea base durante los periodos de reposo entre contracciones. La amplitud de la señal durante la contracción fue visualmente superior al ruido de fondo registrado en reposo, lo que indica activación efectiva del bíceps braquial. No se apreció tendencia de reducción de amplitud entre repeticiones sucesivas, sugiriendo ausencia de fatiga significativa en esta condición.
 
-La amplitud de la señal durante la contracción fue visualmente superior al ruido de fondo registrado en reposo, lo que indica activación efectiva del bíceps braquial. No se apreció tendencia de reducción de amplitud entre repeticiones sucesivas, sugiriendo ausencia de fatiga significativa en esta condición.
 
 ### 3.2 Ejercicio 2 — Flexión con contrapeso (isométrica)
 
-En el Ejercicio 2, las señales sEMG mostraron ráfagas de actividad de mayor amplitud en comparación con el Ejercicio 1. Durante los episodios de contracción isométrica resistida, la señal presentó actividad sostenida y de mayor densidad de deflexiones.
-
-La amplitud pico fue notoriamente superior a la observada en la condición sin contrapeso. El patrón temporal fue de tipo continuo durante el periodo de esfuerzo, a diferencia del patrón pulsátil breve del ejercicio libre. Entre las tres pruebas no se observaron diferencias cualitativas relevantes en la morfología general de la señal.
-
+En el Ejercicio 2, las señales sEMG mostraron ráfagas de actividad de mayor amplitud en comparación con el Ejercicio 1. Durante los episodios de contracción isométrica resistida, la señal presentó actividad sostenida y de mayor densidad de deflexiones. La amplitud pico fue notoriamente superior a la observada en la condición sin contrapeso. El patrón temporal fue de tipo continuo durante el periodo de esfuerzo, a diferencia del patrón pulsátil breve del ejercicio libre. Entre las tres pruebas no se observaron diferencias cualitativas relevantes en la morfología general de la señal.
 
 
 <p align="center">
@@ -83,15 +79,13 @@ La amplitud pico fue notoriamente superior a la observada en la condición sin c
 
 ### 3.3 Ejercicio 3 — Flexión sin contrapeso
 
-Las señales del Ejercicio 3 presentaron ráfagas de actividad sEMG con morflogía análoga al Ejercicio 1. Las amplitudes absolutas fueron comparables entre ambos ejercicios, lo que es consistente con la ausencia de fatiga acumulada entre sesiones separadas por descansos adecuados.
+Las señales del Ejercicio 3 presentaron rafagas de actividad sEMG con morfología análoga al Ejercicio 1. Las amplitudes absolutas fueron comparables entre ambos ejercicios, lo que es consistente con la ausencia de fatiga acumulada entre sesiones separadas por descansos adecuados. Se identificaron claramente los periodos de activación y de reposo, con activaciones breves y bien delimitadas temporalmente, confirmando la reproducibilidad del patrón de señal en condición libre.
 
-Se identificaron claramente los periodos de activación y de reposo, con activaciones breves y bien delimitadas temporalmente, confirmando la reproducibilidad del patrón de señal en condición libre.
 
 ### 3.4 Ejercicio 4 — Flexión con contrapeso (isométrica)
 
-El Ejercicio 4 mostró, al igual que el Ejercicio 2, señales sEMG de mayor amplitud que su contraparte sin contrapeso (Ejercicio 3). Los picos de amplitud durante las contracciones resistidas fueron pronunciados y la señal presentó mayor densidad de actividad durante el periodo de esfuerzo.
-
-Las tres pruebas mostraron patrones similares entre sí y coherentes con los registrados en el Ejercicio 2, lo que refuerza la reproducibilidad del protocolo en condición isométrica [4].
+El Ejercicio 4 mostró, al igual que el Ejercicio 2, señales sEMG de mayor amplitud que su contraparte sin contrapeso (Ejercicio 3). Los picos de amplitud durante las contracciones resistidas fueron pronunciados y la señal presentó mayor densidad de actividad durante el periodo de esfuerzo. Las tres pruebas mostraron patrones similares entre sí y coherentes con los registrados en el Ejercicio 2 
+Estos resultados fueron similares dependiendo de la situación, incluso si fueron realizadas en diferentes músculos. Esto implica el comportamiento similar de actividad muscular en sin y con contrapeso.
 
 <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/eb3b22b3-1dd7-4343-83cb-b18a8a2ec13a" /><br>
@@ -108,19 +102,16 @@ Las tres pruebas mostraron patrones similares entre sí y coherentes con los reg
 
 ### 4.1 Análisis de resultados
 
-Los patrones sEMG obtenidos en los cuatro ejercicios coinciden con los mecanismos neurofisiológicos conocidos de la activación muscular diferenciada según el tipo de contracción. La mayor amplitud registrada en las condiciones con contrapeso (Ejercicios 2 y 4) respecto a las condiciones sin contrapeso (Ejercicios 1 y 3) concuerda con el principio de que una mayor demanda de fuerza requiere el reclutamiento de un número más elevado de unidades motoras, así como una mayor tasa de disparo, lo que se traduce en señales sEMG de mayor amplitud y densidad temporal [1, 7].
-
-En la condición isométrica (con contrapeso), el bíceps braquial generó fuerza de forma sostenida sin cambio en la longitud muscular. Este tipo de contracción produce señales sEMG de alta amplitud y densidad temporal, dado que las unidades motoras deben mantener su activación de manera continua [2]. En contraste, durante la flexión libre (contracción isotónica), la señal sEMG exhibió patrones de ráfagas breves y delimitadas, correspondientes a las fases activas del ciclo concéntrico-excéntrico, con descenso hacia la línea base en los intervalos de reposo.
-
-La variación en la amplitud de la señal es esperable incluso dentro de un mismo participante. Los registros de sEMG de superficie están influenciados por distintos factores, como el espesor del tejido subcutáneo, la arquitectura del músculo, la ubicación de los electrodos respecto a las fibras activas y la impedancia de la piel [3]. Por ello, para realizar comparaciones más precisas, es recomendable normalizar las señales en función de la contracción voluntaria máxima (MVC).
-
-Por otro lado, la similitud observada entre las tres repeticiones de cada ejercicio indica que el protocolo fue consistente en el corto plazo. Las señales mantuvieron un comportamiento bastante parecido en cada intento, lo que sugiere una buena reproducibilidad bajo las mismas condiciones experimentales, en línea con lo reportado en la literatura cuando se respetan tiempos de descanso adecuados entre esfuerzos [4].
+Al observar los patrones de sEMG, destaca la clara diferencia entre las pruebas con y sin contrapeso. Esto responde a que, ante una mayor demanda de fuerza, el sistema nervioso incrementa el reclutamiento de unidades motoras y su frecuencia de disparo, lo que se traduce visualmente en una señal de mayor amplitud y densidad temporal. Básicamente, la sEMG captura las señales mioeléctricas que el cerebro envía como instrucciones de activación hacia los músculos esqueléticos, ya sea para movimientos finos o de alta carga. Por ello, al comparar ambas condiciones, la señal refleja fielmente ese aumento en el esfuerzo neuromuscular, mostrando una actividad eléctrica mucho más intensa cuando existe una carga externa que vencer, pues en las condiciones sin contrapeso (ejercicios 1 y 3), las señales mostraron ráfagas breves y bien delimitadas, con retorno claro a la línea base entre contracciones. En cambio, bajo contracción isométrica resistida (ejercicios 2 y 4), la actividad fue sostenida y de mayor magnitud pico, lo que refleja fielmente el mayor esfuerzo neuromuscular requerido para vencer la carga externa. [2]. Esta relación entre la amplitud de la señal sEMG y el nivel de fuerza generado ha sido ampliamente documentada, aunque no es perfectamente lineal y depende de factores como la geometría muscular y la profundidad de las fibras activas [3]
+Vale notar que este comportamiento fue consistente entre músculos: tanto el FCR como el BB respondieron de manera análoga a las mismas condiciones de carga, a pesar de cumplir funciones distintas (flexión de muñeca versus flexión de codo). Esto sugiere que el principio de modulación de la activación muscular opera de forma similar independientemente del grupo muscular involucrado, siempre que la demanda mecánica sea comparable. La sEMG captura precisamente esas instrucciones de activación que el sistema nervioso envía al músculo esquelético, ya sea para movimientos de baja o alta carga [2], por lo que la señal se convierte en un reflejo directo del esfuerzo generado.
+Además de eso, la ausencia de tendencia decreciente en la amplitud a lo largo de las repeticiones sucesivas dentro de cada ejercicio indica que no se llegó a una fatiga muscular significativa durante el laboratorio. Esto fue esperado dado el tiempo de descanso de aproximadamente 2 minutos entre pruebas y la duración moderada de cada contracción. En condiciones de fatiga, se esperaría una disminución progresiva de la amplitud junto con un desplazamiento del contenido espectral hacia frecuencias más bajas [4].
+Por otro lado, el análisis espectral mediante FFT mostró que tanto para el FCR como para el BB la energía de la señal se concentró en el rango de 20 a 200 Hz, consistente con el rango fisiológico típico de la sEMG de superficie [5]. Al comparar condiciones, las pruebas con contrapeso presentaron una mayor magnitud espectral, especialmente en frecuencias bajas y medias, lo que refleja el mayor reclutamiento de unidades motoras y la consecuente superposición de potenciales de acción [1]. Este comportamiento fue más pronunciado en el BB que en el FCR, diferencia atribuible a la mayor masa muscular del primero y a su influencia sobre la amplitud captada por los electrodos [3].
 
 ### 4.2 Limitaciones del estudio
 
 #### 4.2.1 Tamaño muestral
 
-El estudio se realizó con una única participante, lo que limita completamente la posibilidad de generalizar los resultados. En la literatura, los estudios de referencia en sEMG del bíceps braquial suelen incluir entre 10 y 50 sujetos para lograr un poder estadístico adecuado [1, 4]. Por ello, los resultados obtenidos en este trabajo tienen un carácter principalmente exploratorio y descriptivo, mas no inferencial.
+El estudio se realizó con una única participante, lo que limita completamente la posibilidad de generalizar los resultados. En la literatura, los estudios de referencia en sEMG del bíceps braquial suelen incluir entre 10 y 50 sujetos para lograr un poder estadístico adecuado [1, 4]. Por ello, los resultados obtenidos en este trabajo tienen un carácter principalmente exploratorio y descriptivo, mas no generalizable.
 
 #### 4.2.2 Ausencia de normalización por MVC
 
@@ -130,36 +121,27 @@ Una limitación importante del estudio es que no se realizó la normalización d
 
 La resistencia manual aplicada durante los Ejercicios 2 y 4 introduce una fuente de variabilidad que no fue controlada. A diferencia de equipos como los dinamómetros isocinéticos, este tipo de resistencia no permite asegurar que la fuerza se mantenga constante entre pruebas. Como consecuencia, las condiciones isométricas evaluadas no son completamente reproducibles ni cuantificables. En estudios más controlados, se suelen utilizar sistemas de carga con retroalimentación visual para garantizar niveles de fuerza más consistentes [2].
 
-#### 4.2.4 Artefactos de movimiento
+#### 4.2.4 Control del tiempo de descanso
 
-En las contracciones isotónicas (sin contrapeso), el movimiento articular puede generar artefactos de movimiento en las señales sEMG. Estos artefactos se producen por el desplazamiento relativo de los electrodos respecto a la piel y tienen frecuencias predominantes por debajo de 20 Hz. Sin un filtrado pasa-altas adecuado (típicamente >10–20 Hz), estos artefactos pueden contaminar la señal y distorsionar los parámetros de amplitud [3].
+El descanso entre pruebas fue de aproximadamente dos minutos, cronometrado de manera informal con el celular de un integrante del grupo. Si bien esto da una referencia del tiempo transcurrido, no garantiza una medición precisa ni un control riguroso del reposo, especialmente considerando que en condiciones isométricas máximas dos minutos podrían ser insuficientes para una recuperación metabólica completa y eso podría influir en la amplitud de las pruebas siguientes [4].
 
-#### 4.2.5 Crosstalk de músculos adyacentes
 
-El bíceps braquial comparte el espacio anatómico con el braquial y el braquiorradial, músculos sinergistas en la flexión del codo. La sEMG de superficie no puede discriminar perfectamente la contribución de cada músculo, lo que implica que las señales registradas pueden contener contaminación por crosstalk. Estudios recientes sobre colocación de electrodos en el miembro superior señalan que el crosstalk en el bíceps braquial puede ser relevante cuando los electrodos no se orientan estrictamente paralelos a las fibras musculares [6].
+#### 4.2.5 Análisis cualitativo sin cuantificación de parámetros
 
-#### 4.2.6 Control del tiempo de descanso
+EEl presente informe se basa en la inspección visual de las señales sin extraer parámetros cuantitativos como el valor RMS, la frecuencia mediana (MDF), la frecuencia media (MPF) o el índice de fatiga de Dimitrov. Estos indicadores son los referentes estándar en la literatura para caracterizar y comparar señales sEMG [5,6]. Su ausencia limita la capacidad de comparar los resultados con los valores reportados en estudios previos y revisiones sistemáticas del área.
 
-El descanso de aproximadamente un minuto entre pruebas fue definido de manera aproximada y no controlado con cronómetro preciso. Si bien un minuto puede ser suficiente para recuperación parcial en esfuerzos submáximos, en condiciones isométricas máximas podría ser insuficiente para la recuperación completa del metabolismo muscular, lo que podría influir en la amplitud de las señales en las pruebas subsiguientes [4].
-
-#### 4.2.7 Análisis cualitativo sin cuantificación de parámetros
-
-El presente informe se basa en la inspección visual de las señales sin extraer parámetros cuantitativos como el valor RMS, la frecuencia mediana (MDF), la frecuencia media (MPF) o el índice de fatiga de Dimitrov. Estos indicadores son los referentes estándar en la literatura para caracterizar y comparar señales sEMG [1, 5]. Su ausencia limita la capacidad de comparar los resultados con los valores reportados en estudios previos y revisiones sistemáticas del área.
-
+  
 ## REFERENCIAS
 
-1. P. M. R. Gouveia et al., "EMG amplitude and frequency parameters of muscular activity: Effect of resistance training based on electromyographic fatigue threshold," *J. Electromyogr. Kinesiol.*, vol. 17, no. 5, pp. 601–610, 2007. doi: 10.1016/j.jelekin.2007.09.001
+[1] B. Yu et al., "The effects of the biceps brachii and brachioradialis on elbow flexor muscle strength and spasticity in stroke patients," BioMed Research International, vol. 2022, Art. no. 1295908, Mar. 2022, doi: 10.1155/2022/1295908.
 
-2. R. Merletti and D. Farina, "Analysis of intramuscular electromyogram signals," *Philos. Trans. R. Soc. A*, vol. 367, no. 1887, pp. 357–368, 2009. doi: 10.1098/rsta.2008.0235
+[2] Z. Li et al., "Surface electromyography as a natural human–machine interface: A review," IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 7, pp. 1173–1185, Jul. 2022, doi: 10.1109/JAS.2022.105416.
 
-3. C. Disselhorst-Klug, T. Schmitz-Rode, and G. Rau, "Surface electromyography and muscle force: Limits in sEMG–force relationship and new approaches for applications," *Clin. Biomech.*, vol. 24, no. 3, pp. 225–235, 2009. doi: 10.1016/j.clinbiomech.2008.08.003
+[3] C. Disselhorst-Klug, T. Schmitz-Rode, and G. Rau, "Surface electromyography and muscle force: Limits in sEMG–force relationship and new approaches for applications," Clinical Biomechanics, vol. 24, no. 3, pp. 225–235, 2009, doi: 10.1016/j.clinbiomech.2008.08.003.
 
-4. C. Ortiz-Cruz, R. Bravo-Mancero, and S. Viñán-Garces, "Evaluation of muscle fatigue using surface electromyography during isometric contractions in athletes and non-athletes," *Eur. J. Cardiovasc. Med.*, vol. 15, no. 1, pp. 88–97, 2025. doi: 10.5083/ejcm.20453 [Online]. Available: https://healthcare-bulletin.co.uk
+[4] C. Ortiz-Cruz, R. Bravo-Mancero, and S. Viñán-Garcés, "Evaluation of muscle fatigue using surface electromyography during isometric contractions in athletes and non-athletes," European Journal of Cardiovascular Medicine, vol. 15, no. 1, pp. 88–97, 2025, doi: 10.5083/ejcm.20453.
 
-5. P. Konrad, *The ABC of EMG: A Practical Introduction to Kinesiological Electromyography*, Noraxon Inc., Scottsdale, AZ, USA, 2005. [Online]. Available: https://www.noraxon.com
+[5] P. Konrad, The ABC of EMG: A Practical Introduction to Kinesiological Electromyography. Scottsdale, AZ, USA: Noraxon Inc., 2005. [Online]. Available: https://www.noraxon.com
 
-6. A. Casolo et al., "Electrode Size and Placement for Surface EMG Bipolar Detection from the Brachioradialis Muscle: A Scoping Review," *Sensors*, vol. 21, no. 21, p. 7322, 2021. doi: 10.3390/s21217322
+[6] P. M. R. Gouveia et al., "EMG amplitude and frequency parameters of muscular activity: Effect of resistance training based on electromyographic fatigue threshold," Journal of Electromyography and Kinesiology, vol. 17, no. 5, pp. 601–610, 2007, doi: 10.1016/j.jelekin.2007.09.001.
 
-7. J. P. Aagaard et al., "Re-Evaluating Electromyogram–Force Relation in Healthy Biceps Brachii Muscles Using Complexity Measures," *Entropy*, vol. 19, no. 11, p. 624, 2017. doi: 10.3390/e19110624
-
-8. S. P. Chung, J. G. Jo, and J. H. Kim, "An Exploratory Study of Biceps Brachii Electromyographic Activity During Traditional Dumbbell Versus Bayesian Cable Curls," *Front. Sports Act. Living*, 2025. doi: 10.3389/fsals.2025.PMC12550948
