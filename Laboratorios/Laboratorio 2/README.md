@@ -67,6 +67,20 @@ En el Ejercicio 2, las señales sEMG mostraron ráfagas de actividad de mayor am
 
 La amplitud pico fue notoriamente superior a la observada en la condición sin contrapeso. El patrón temporal fue de tipo continuo durante el periodo de esfuerzo, a diferencia del patrón pulsátil breve del ejercicio libre. Entre las tres pruebas no se observaron diferencias cualitativas relevantes en la morfología general de la señal.
 
+
+
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/f95d1d1a-13aa-4536-8dba-5e9ac7486d05" /><br>
+  <strong>Figura 3.</strong> Señales EMG en función del tiempo de flexión de muñeca
+</p>
+
+
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/11dde9d8-ccf4-4055-a96f-e2b8d1e5e727" /><br>
+  <strong>Figura 4.</strong> Análisis en función de la frecuencia (Hz) de flexión de muñeca
+</p>
+
+
 ### 3.3 Ejercicio 3 — Flexión sin contrapeso
 
 Las señales del Ejercicio 3 presentaron ráfagas de actividad sEMG con morflogía análoga al Ejercicio 1. Las amplitudes absolutas fueron comparables entre ambos ejercicios, lo que es consistente con la ausencia de fatiga acumulada entre sesiones separadas por descansos adecuados.
@@ -124,8 +138,7 @@ El presente informe se basa en la inspección visual de las señales sin extraer
 
 ## REFERENCIAS
 
-1. B. Yu, X. Zhang, Y. Cheng, L. Liu, J. Wang, and X. Lu, "The effects of the biceps brachii and brachioradialis on elbow flexor muscle strength and spasticity in stroke patients," BioMed Res. Int., vol. 2022, Art. no. 1295908, Mar. 2022, doi: 10.1155/2022/1295908.
-
+1. P. M. R. Gouveia et al., "EMG amplitude and frequency parameters of muscular activity: Effect of resistance training based on electromyographic fatigue threshold," *J. Electromyogr. Kinesiol.*, vol. 17, no. 5, pp. 601–610, 2007. doi: 10.1016/j.jelekin.2007.09.001
 
 2. R. Merletti and D. Farina, "Analysis of intramuscular electromyogram signals," *Philos. Trans. R. Soc. A*, vol. 367, no. 1887, pp. 357–368, 2009. doi: 10.1098/rsta.2008.0235
 
