@@ -124,7 +124,8 @@ El presente informe se basa en la inspección visual de las señales sin extraer
 
 ## REFERENCIAS
 
-1. P. M. R. Gouveia et al., "EMG amplitude and frequency parameters of muscular activity: Effect of resistance training based on electromyographic fatigue threshold," *J. Electromyogr. Kinesiol.*, vol. 17, no. 5, pp. 601–610, 2007. doi: 10.1016/j.jelekin.2007.09.001
+1. B. Yu, X. Zhang, Y. Cheng, L. Liu, J. Wang, and X. Lu, "The effects of the biceps brachii and brachioradialis on elbow flexor muscle strength and spasticity in stroke patients," BioMed Res. Int., vol. 2022, Art. no. 1295908, Mar. 2022, doi: 10.1155/2022/1295908.
+
 
 2. R. Merletti and D. Farina, "Analysis of intramuscular electromyogram signals," *Philos. Trans. R. Soc. A*, vol. 367, no. 1887, pp. 357–368, 2009. doi: 10.1098/rsta.2008.0235
 
