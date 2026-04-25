@@ -26,7 +26,6 @@ En la evaluación del músculo FCR, los electrodos se colocaron en alineación c
 
 Para la evaluación del músculo BB, el electrodo de referencia también se posicionó en el codo y los otros dos electrodos fueron alineados con las fibras musculares.
 
-<img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/1f415d5b-512f-4ef9-a14c-f2a68a509a7f" />
 <p align="center">
   <img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/1f415d5b-512f-4ef9-a14c-f2a68a509a7f" /><br>
   <strong>Figura 2.</strong> Colocación de electrodos para evaluación del músculo BB.
