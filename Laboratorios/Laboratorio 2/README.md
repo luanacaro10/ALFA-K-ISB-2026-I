@@ -93,6 +93,16 @@ El Ejercicio 4 mostró, al igual que el Ejercicio 2, señales sEMG de mayor ampl
 
 Las tres pruebas mostraron patrones similares entre sí y coherentes con los registrados en el Ejercicio 2, lo que refuerza la reproducibilidad del protocolo en condición isométrica [4].
 
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/eb3b22b3-1dd7-4343-83cb-b18a8a2ec13a" /><br>
+  <strong>Figura 5.</strong> Señales EMG en función del tiempo durante el ejercicio de flexión de codo
+</p>
+
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/284deaa2-3795-4ab0-ab21-d6e24fe53d60" /><br>
+  <strong>Figura 6.</strong> Análisis en función de la frecuencia (Hz) durante el ejercicio de flexión de codo
+</p>
+
 
 ## DISCUSIÓN
 
