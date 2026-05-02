@@ -54,7 +54,11 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 ## Resultados
 
-Los resultados para cada ejercicio se relatan en la siguiente tabla
+
+
+
+
+Los resultados para cada ejercicio se relatan a más detalle en la siguiente tabla
 
 | Condición | Derivada | FC (bpm) | RR medio (ms) | SDNN (ms) | Amp. pico-pico (mV) | Nº picos R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -86,7 +90,18 @@ _FC = frecuencia cardíaca; RR = intervalo entre picos R; SDNN = desviación est
 
 ## Discusión
 
-La frecuencia cardiaca de la persona volutnaria en la parte Basal 1, se reporta por encima del límite superior de la normalidad en reposo (60 - 100 bpm), esto podría deberse a un estrés anticipatorio a la realización del laboratiorio, temperatura ambiental considerando la calefacción del aula o incluso a alguna condición física individual. Por otro lado, la FC basal 2 mostró un descenso progresivo hacia valores menores, compatible con una relajación al término de la sesión.
+La frecuencia cardiaca de la persona voluntaria en la parte Basal 1, se reporta por encima del límite superior de la normalidad en reposo (60 - 100 bpm), esto podría deberse a un estrés anticipatorio a la realización del laboratorio, temperatura ambiental considerando la calefacción del aula o incluso a alguna condición física individual. Por otro lado, la FC basal 2 mostró un descenso progresivo hacia valores menores, compatible con una relajación al término de la sesión.
+
+Tras la actividad física se observó un gran incremento de la FC registrada, consistente con una activación simpática inducida por el esfuerzo físico de alta intensidad. Sin embargo, la derivada II y la derivada III tuvieron cierta diferencia, esto puede deberse por la mayor susceptibilidad de la derivada I a artefactos de movimiento muscular que alteran lo que son los umbrales de detección de picos R.
+
+En las pruebas de respiración, notamos cómo esta afecta directamente en las señales del ECG. En la primera hipoventilación, la FC subió a 111 bpm, elevados al estado basal. Esto tendría sentido porque, al aguantar el aire, nuestro cuerpo se estresa por falta de oxígeno y el exceso  CO2, activando así el sistema simpático [9]. Por otra parte, en  la hiperventilación no vimos cambios tan grandes, quizás porque no se hizo durante el tiempo suficiente para que el cuerpo tuviera una reacción vagal fuerte, algo que según la literatura suele tardar más de 3 minutos [5]
+
+Sobre las derivadas de Einthoven, los datos confirman un dato: la derivada I siempre mostrará señales muy bajas (0.17 - 0.42 mV) comparada con la II y la III. Esto tiene sentido porque el eje eléctrico del corazón suele estar a 60°, apuntando casi directo a la Derivada II. Por eso, la derivada II es la que nos dio las ondas más claras y fáciles de medir. La derivada I, al estar a 0°, capta solo una pequeña parte de esa señal, lo que la hace mucho más sensible al ruido [3].
+
+
+# Limitaciones
+
+La limitación más grande fue trabajar solo con un voluntario y también tener que cambiar los electrodos manualmente. Cabe resaltar que fue la primera vez de cada participante cambiando electrodos de ECG en derivadas respectivas, sumado a eso el hacerlo inmediatamente después de determinado tiempo provan variaciones en la calidad del contacto y por tanto en la calidad de la adquisición de la señal. Además, al no usar un equipo clínico de referencia ni sensores de CO2, no pudimos asegurar qué tan profundas fueron las apneas o la hiperventilación, lo que explica por qué algunos cambios autonómicos no fueron tan marcados como dice la literatura [7, 8].
 
 
 
@@ -97,4 +112,15 @@ La frecuencia cardiaca de la persona volutnaria en la parte Basal 1, se reporta 
 [2] Klabunde R.E., Cardiovascular Physiology Concepts, 2nd ed. Lippincott Williams & Wilkins, 2011.
 
 [3] Goldberger A.L. et al., "Goldberger's Clinical Electrocardiography: A Simplified Approach," 9th ed. Elsevier, 2017.
+
+[4] Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology, "Heart Rate Variability: Standards of Measurement, Physiological Interpretation and Clinical Use," Circulation, vol. 93, no. 5, pp. 1043–1065, 1996.
+
+[5] Schaun G.Z. et al., "Cardiovascular Responses to High-Intensity Calisthenic Exercise in Young Adults: A Systematic Review," European Journal of Applied Physiology, vol. 119, no. 11–12, pp. 2375–2391, 2019
+
+[6] Perini R. et al., "Diving Reflex and Heart Rate Variability During Voluntary Apnea: A Meta-analysis," Journal of Applied Physiology, vol. 125, no. 3, pp. 764–773, 2018.
+
+[7] Pham T.H. et al., "Effects of Voluntary Hyperventilation on Autonomic Nervous System Activity and Heart Rate Variability: A Systematic Review," Frontiers in Physiology, vol. 14, p. 1150345, 2023.
+
+[8] Sheta M. et al., "Motion Artifact Reduction Algorithms for Wearable ECG Sensors: A Systematic Review," Biosensors and Bioelectronics, vol. 201, p. 113957, 2022.
+
 
