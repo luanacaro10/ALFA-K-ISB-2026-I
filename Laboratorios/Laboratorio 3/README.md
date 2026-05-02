@@ -112,6 +112,7 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 **Figura 9:** El segmento de hipoventilación presenta una pronunciada fluctuación de baja frecuencia en la línea base, especialmente visible a partir del segundo 2.0. El intervalo RR registrado es de 0.54 segundos. Aunque el algoritmo logra identificar correctamente los picos R a pesar del desplazamiento vertical, las ventanas de búsqueda para las ondas P y T son mucho menos precisas. 
 
+### Detección de Picos R en Derivada DII
 <p align="center">
   <img width="1154" height="1600" alt="r1" src="https://github.com/user-attachments/assets/9edfe69f-ef8e-4925-8fc8-9a91559039ba" />
   <strong>Figura 10.</strong> Análisis de picos R.
