@@ -54,7 +54,7 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 
 ## Resultados
-
+*** Señales ECG Filtradas.
 <p align="center">
   <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM" src="https://github.com/user-attachments/assets/8f935509-f180-4007-bf8e-3e87c3d26950" />
   <strong>Figura 2.</strong> Señales de Derivada I,II y III sobre estado basal 1 y 2.
@@ -83,6 +83,7 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 **Figura 5:** Las tres gráficas representan un estado de hipoventilación. Es notable la presencia de un claro artefacto de procesamiento en el cálculo de la FC para la Derivada I (DI), la cual subestima la frecuencia real indicando 81 lpm. Mientras que las derivadas DII y DIII mantienen una relación señal-ruido suficiente para registrar valores de 111 y 109 lpm, respectivamente.
 
+*** Detección de Picos R en las señales filtradas.
 <p align="center">
   <img width="989" height="440" alt="basal1" src="https://github.com/user-attachments/assets/26dd8401-bfe2-421d-a1aa-221e52b6d67f" />
   <strong>Figura 6.</strong> Análisis Derivada II sobre estado basal 1.
