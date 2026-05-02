@@ -60,6 +60,8 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
   <strong>Figura 2.</strong> Señales de Derivada I,II y III sobre estado basal 1 y 2.
 </p>
 
+Se observan las señales DI, DII y DIII tomadas en estado de reposo durante dos tomas distintas: Basal 1 y Basal 2. Las señales se mantienen marcadamente estables y libres de artefactos de movimiento. En ese sentido, la Derivada II (DII) destaca por presentar la mayor amplitud del complejo QRS y una morfología clara, lo que facilita el cálculo de una frecuencia cardíaca (FC) constante; mientras que la Derivada I (DI) tiene una amplitud casi cero.
+
 <p align="center">
   <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM (1)" src="https://github.com/user-attachments/assets/49898c40-788d-4266-8b8c-bc29d81ad217" />
   <strong>Figura 3.</strong> Señales de Derivada I,II y III sobre Hiperventilación 1 y 2.
