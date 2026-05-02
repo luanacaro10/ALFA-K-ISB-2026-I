@@ -51,9 +51,6 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 Los resultados para cada ejercicio se relatan en la siguiente tabla
 
-
-# Parámetros Cuantitativos del ECG por Condición y Derivada
-
 | Condición | Derivada | FC (bpm) | RR medio (ms) | SDNN (ms) | Amp. pico-pico (mV) | Nº picos R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Basal 1 | I | 103.9 | 577.7 | 16.6 | 0.174 | 58 |
