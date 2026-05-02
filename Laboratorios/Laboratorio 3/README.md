@@ -1,3 +1,4 @@
+
 # ADQUISICIÓN Y ANÁLISIS DE SEÑALES ELECTROCARDIOGRÁFICAS
 ## Introducción
 
@@ -53,12 +54,58 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 
 ## Resultados
+
 <p align="center">
-  <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM" src="https://github.com/user-attachments/assets/985aa01b-69f9-4093-a0d3-  7cd7bb61df9e" />
+  <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM" src="https://github.com/user-attachments/assets/8f935509-f180-4007-bf8e-3e87c3d26950" />
   <strong>Figura 2.</strong> Señales de Derivada I,II y III sobre estado basal 1 y 2.
 </p>
 
+<p align="center">
+  <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM (1)" src="https://github.com/user-attachments/assets/49898c40-788d-4266-8b8c-bc29d81ad217" />
+  <strong>Figura 3.</strong> Señales de Derivada I,II y III sobre Hiperventilación 1 y 2.
+</p>
 
+<p align="center">
+  <img width="1389" height="331" alt="WhatsApp Image 2026-05-02 at 1 44 05 AM" src="https://github.com/user-attachments/assets/285ea60a-10ca-4819-bfe8-0ad9e1a5f07f" />
+  <strong>Figura 4.</strong> Señales de Derivada I,II y III post ejercicio.
+</p>
+
+<p align="center">
+  <img width="1389" height="331" alt="WhatsApp Image 2026-05-02 at 1 44 05 AM (1)" src="https://github.com/user-attachments/assets/0c91bca1-2a9b-4363-bf2b-1c4102fdd373" />
+  <strong>Figura 5.</strong> Señales de Derivada I,II y III sobre hipoventilación.
+</p>
+
+
+<p align="center">
+  <img width="989" height="440" alt="basal1" src="https://github.com/user-attachments/assets/26dd8401-bfe2-421d-a1aa-221e52b6d67f" />
+  <strong>Figura 6.</strong> Análisis Derivada II sobre estado basal 1.
+</p>
+
+
+<p align="center">
+  <img width="989" height="440" alt="hipe1" src="https://github.com/user-attachments/assets/d5b05d79-48e5-40ca-9e34-92405ab1f9ed" />
+  <strong>Figura 7.</strong> Análisis de Derivada II sobre Hiperventilación.
+</p>
+
+<p align="center">
+  <img width="989" height="440" alt="e1" src="https://github.com/user-attachments/assets/8095eefc-727e-47bf-ab2a-e648685ac2bd" />
+  <strong>Figura 8.</strong> Análisis de Derivada II sobre estado post ejercicio.
+</p>
+
+<p align="center">
+  <img width="988" height="440" alt="hipo1" src="https://github.com/user-attachments/assets/ce0ddb19-4a0b-44c1-a3fb-1a0cf8930eaa" />
+  <strong>Figura 9.</strong> Análisis de Derivada II sobre Hipoventilación.
+</p>
+
+<p align="center">
+  <img width="989" height="440" alt="basal2" src="https://github.com/user-attachments/assets/c1ef6f1d-ed60-4a8a-833a-fac968f18529" />
+  <strong>Figura 10.</strong> Análisis de Derivada II sobre estado basal 2.
+</p>
+
+<p align="center">
+  <img width="1154" height="1600" alt="r1" src="https://github.com/user-attachments/assets/9edfe69f-ef8e-4925-8fc8-9a91559039ba" />
+  <strong>Figura 11.</strong> Análisis de picos R.
+</p>
 
 
 
