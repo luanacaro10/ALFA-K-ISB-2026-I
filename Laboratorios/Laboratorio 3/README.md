@@ -6,8 +6,10 @@ El electrocardiograma (ECG) es una prueba médica no invasiva que registra la ac
 
 Para entender las señales que obtuvimos en el laboratorio, debemos identificar los componentes clave del trazado. Un ciclo cardíaco normal empieza con la onda P (despolarización auricular), seguida del complejo QRS, que es la parte con mayor amplitud y representa la despolarización de los ventrículos. Finalmente, aparece la onda T, que marca la repolarización ventricular [2]. Además, es importante vigilar el segmento ST y el intervalo QT, ya que cualquier variación en su duración o nivel isoeléctrico puede indicar desde una respuesta fisiológica normal hasta una patología.
 
-<img width="626" height="548" alt="ecg wave" src="https://github.com/user-attachments/assets/01f2b963-b98f-43f2-a5d0-41b731b61050" />
-
+<p align="center">
+  <img width="450" height="400" alt="ecg wave" src="https://github.com/user-attachments/assets/01f2b963-b98f-43f2-a5d0-41b731b61050" />
+  <strong>Figura 1.</strong> Onda de señal ECG.
+</p>
 
 El sistema de 12 derivadas definido por Einthoven y sus expansiones posteriores permite analizar el corazón en los planos frontal y horizontal. Las derivadas bipolares de los miembros (I, II y III) son conocidas como triángulo de Einthoven y constituyen el primer nivel de análisis y por tanto son las empleadas en esta práctica. Además, la disposición geométrica de los electrodos determina el ángulo de proyección y, en consecuencia, la amplitud y polaridad de cada componente de la señal [3].
 
