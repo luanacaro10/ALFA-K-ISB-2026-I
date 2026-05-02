@@ -89,30 +89,32 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
   <strong>Figura 6.</strong> Análisis Derivada II sobre estado basal 1.
 </p>
 
+Se observa una línea base isoeléctrica estable y libre de ruido. El intervalo RR calculado es de 0.61 segundos, lo que equivale a una frecuencia cardíaca en reposo de aproximadamente 98 latidos por minuto.
 
 <p align="center">
   <img width="989" height="440" alt="hipe1" src="https://github.com/user-attachments/assets/d5b05d79-48e5-40ca-9e34-92405ab1f9ed" />
   <strong>Figura 7.</strong> Análisis de Derivada II sobre Hiperventilación.
 </p>
 
+Durante la hiperventilación voluntaria, la morfología del ECG se mantiene conservada. El intervalo RR medido disminuye ligeramente a 0.59 segundos (aproximadamente 102 lpm), reflejando una leve respuesta taquicárdica predecible ante el aumento del trabajo respiratorio. En la gráfica se observa que la línea base se mantiene estable como para que el algoritmo logre una correcta delimitación espacial de las ondas P y T sin falsos positivos.
+
 <p align="center">
   <img width="989" height="440" alt="e1" src="https://github.com/user-attachments/assets/8095eefc-727e-47bf-ab2a-e648685ac2bd" />
   <strong>Figura 8.</strong> Análisis de Derivada II sobre estado post ejercicio.
 </p>
+
+Se aprecia una frecuencia cardíaca elevada, pero el algoritmo marca un intervalo RR erróneo de 0.88 segundos o 68 lpm. Esto ocurre dada la contaminación por ruido electromiográfico superpuesto por la respiración agitada, lo que altera la amplitud del QRS. 
 
 <p align="center">
   <img width="988" height="440" alt="hipo1" src="https://github.com/user-attachments/assets/ce0ddb19-4a0b-44c1-a3fb-1a0cf8930eaa" />
   <strong>Figura 9.</strong> Análisis de Derivada II sobre Hipoventilación.
 </p>
 
-<p align="center">
-  <img width="989" height="440" alt="basal2" src="https://github.com/user-attachments/assets/c1ef6f1d-ed60-4a8a-833a-fac968f18529" />
-  <strong>Figura 10.</strong> Análisis de Derivada II sobre estado basal 2.
-</p>
+El segmento de hipoventilación presenta una pronunciada fluctuación de baja frecuencia en la línea base, especialmente visible a partir del segundo 2.0. El intervalo RR registrado es de 0.54 segundos. Aunque el algoritmo logra identificar correctamente los picos R a pesar del desplazamiento vertical, las ventanas de búsqueda para las ondas P y T son mucho menos precisas. 
 
 <p align="center">
   <img width="1154" height="1600" alt="r1" src="https://github.com/user-attachments/assets/9edfe69f-ef8e-4925-8fc8-9a91559039ba" />
-  <strong>Figura 11.</strong> Análisis de picos R.
+  <strong>Figura 10.</strong> Análisis de picos R.
 </p>
 
 
