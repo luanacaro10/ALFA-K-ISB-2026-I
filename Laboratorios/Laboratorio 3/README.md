@@ -53,6 +53,10 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
 
 
 ## Resultados
+<p align="center">
+  <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM" src="https://github.com/user-attachments/assets/985aa01b-69f9-4093-a0d3-  7cd7bb61df9e" />
+  <strong>Figura 2.</strong> Señales de Derivada I,II y III sobre estado basal 1 y 2.
+</p>
 
 
 
