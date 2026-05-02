@@ -60,28 +60,28 @@ Se realizaron seis ejercicios secuenciales sobre un único participante voluntar
   <strong>Figura 2.</strong> Señales de Derivada I,II y III sobre estado basal 1 y 2.
 </p>
 
-Se observan las señales DI, DII y DIII tomadas en estado de reposo durante dos tomas distintas: Basal 1 y Basal 2. Las señales se mantienen marcadamente estables y libres de artefactos de movimiento. En ese sentido, la Derivada II (DII) destaca por presentar la mayor amplitud del complejo QRS y una morfología clara, lo que facilita el cálculo de una frecuencia cardíaca (FC) constante; mientras que la Derivada I (DI) tiene una amplitud casi cero.
+**Figura 2:** Se observan las señales DI, DII y DIII tomadas en estado de reposo durante dos tomas distintas: Basal 1 y Basal 2. Las señales se mantienen marcadamente estables y libres de artefactos de movimiento. En ese sentido, la Derivada II (DII) destaca por presentar la mayor amplitud del complejo QRS y una morfología clara, lo que facilita el cálculo de una frecuencia cardíaca (FC) constante; mientras que la Derivada I (DI) tiene una amplitud casi cero.
 
 <p align="center">
   <img width="1389" height="657" alt="WhatsApp Image 2026-05-02 at 1 44 04 AM (1)" src="https://github.com/user-attachments/assets/49898c40-788d-4266-8b8c-bc29d81ad217" />
   <strong>Figura 3.</strong> Señales de Derivada I,II y III sobre Hiperventilación 1 y 2.
 </p>
 
-El gráfico muestra las tres derivadas durante dos pruebas de hiperventilación. Se evidencia una FC que oscila entre 97 y 105 lpm en estas señales y morfológicamente se destaca una ligera ondulación en la amplitud de los picos R, tanto en DII como en DIII. 
+**Figura 3:** El gráfico muestra las tres derivadas durante dos pruebas de hiperventilación. Se evidencia una FC que oscila entre 97 y 105 lpm en estas señales y morfológicamente se destaca una ligera ondulación en la amplitud de los picos R, tanto en DII como en DIII. 
 
 <p align="center">
   <img width="1389" height="331" alt="WhatsApp Image 2026-05-02 at 1 44 05 AM" src="https://github.com/user-attachments/assets/285ea60a-10ca-4819-bfe8-0ad9e1a5f07f" />
   <strong>Figura 4.</strong> Señales de Derivada I,II y III post ejercicio.
 </p>
 
-Estas señales fueron captadas inmediatamente después del ejercicio de burpees. Debido a ello se alcanzó una FC máxima de 131 lpm en la Derivada II; asimismo, se destaca una contaminación, posiblemente artefactos por movimiento, que persiste en la señal a pesar de la aplicación del filtro pasa-banda de 0.5 a 40 Hz. 
+**Figura 4:** Estas señales fueron captadas inmediatamente después del ejercicio de burpees. Debido a ello se alcanzó una FC máxima de 131 lpm en la Derivada II; asimismo, se destaca una contaminación, posiblemente artefactos por movimiento, que persiste en la señal a pesar de la aplicación del filtro pasa-banda de 0.5 a 40 Hz. 
 
 <p align="center">
   <img width="1389" height="331" alt="WhatsApp Image 2026-05-02 at 1 44 05 AM (1)" src="https://github.com/user-attachments/assets/0c91bca1-2a9b-4363-bf2b-1c4102fdd373" />
   <strong>Figura 5.</strong> Señales de Derivada I,II y III sobre hipoventilación.
 </p>
 
-Las tres gráficas representan un estado de hipoventilación. Es notable la presencia de un claro artefacto de procesamiento en el cálculo de la FC para la Derivada I (DI), la cual subestima la frecuencia real indicando 81 lpm. Mientras que las derivadas DII y DIII mantienen una relación señal-ruido suficiente para registrar valores de 111 y 109 lpm, respectivamente.
+**Figura 5:** Las tres gráficas representan un estado de hipoventilación. Es notable la presencia de un claro artefacto de procesamiento en el cálculo de la FC para la Derivada I (DI), la cual subestima la frecuencia real indicando 81 lpm. Mientras que las derivadas DII y DIII mantienen una relación señal-ruido suficiente para registrar valores de 111 y 109 lpm, respectivamente.
 
 <p align="center">
   <img width="989" height="440" alt="basal1" src="https://github.com/user-attachments/assets/26dd8401-bfe2-421d-a1aa-221e52b6d67f" />
