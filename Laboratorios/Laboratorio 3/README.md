@@ -4,7 +4,10 @@
 
 El electrocardiograma (ECG) es una prueba médica no invasiva que registra la actividad eléctrica del corazón captada en la superficie corporal mediante electrodos. La señal resultante refleja los potenciales de acción que se originan en el nodo sinoatrial (NSA) y se propagan a través del sistema de conducción cardíaco, nodo auriculoventricular (NAV), también llamado haz de His, ramas derecha e izquierda y fibras de Purkinje, hasta alcanzar el miocardio ventricular [1].
 
-Este trazado ECG estándar se compone de ondas características que representan la despolarización o activación eléctrica auricular (onda P), el tiempo desde el inicio de la activación auricular hasta de la ventricular incluyendo el retraso en el nodo AV (intervalo PQ), la despolarización rápida de los ventrículos (complejo QRS) y la repolarización ventricular (onda T). Cada derivada capta una proyección distinta del vector eléctrico cardíaco resultante, de modo que la morfología de las ondas varía según el eje de medición [2].
+Para entender las señales que obtuvimos en el laboratorio, debemos identificar los componentes clave del trazado. Un ciclo cardíaco normal empieza con la onda P (despolarización auricular), seguida del complejo QRS, que es la parte con mayor amplitud y representa la despolarización de los ventrículos. Finalmente, aparece la onda T, que marca la repolarización ventricular [2]. Además, es importante vigilar el segmento ST y el intervalo QT, ya que cualquier variación en su duración o nivel isoeléctrico puede indicar desde una respuesta fisiológica normal hasta una patología.
+
+<img width="626" height="548" alt="ecg wave" src="https://github.com/user-attachments/assets/01f2b963-b98f-43f2-a5d0-41b731b61050" />
+
 
 El sistema de 12 derivadas definido por Einthoven y sus expansiones posteriores permite analizar el corazón en los planos frontal y horizontal. Las derivadas bipolares de los miembros (I, II y III) son conocidas como triángulo de Einthoven y constituyen el primer nivel de análisis y por tanto son las empleadas en esta práctica. Además, la disposición geométrica de los electrodos determina el ángulo de proyección y, en consecuencia, la amplitud y polaridad de cada componente de la señal [3].
 
@@ -80,6 +83,9 @@ _(*) SDNN afectado por artefactos de movimiento._
 _FC = frecuencia cardíaca; RR = intervalo entre picos R; SDNN = desviación estándar de intervalos RR; Amp. pp = amplitud pico a pico de la señal filtrada_
 
 ## Discusión
+
+La frecuencia cardiaca de la persona volutnaria en la parte Basal 1, se reporta por encima del límite superior de la normalidad en reposo (60 - 100 bpm), esto podría deberse a un estrés anticipatorio a la realización del laboratiorio, temperatura ambiental considerando la calefacción del aula o incluso a alguna condición física individual. Por otro lado, la FC basal 2 mostró un descenso progresivo hacia valores menores, compatible con una relajación al término de la sesión.
+
 
 
 ## Referencias
