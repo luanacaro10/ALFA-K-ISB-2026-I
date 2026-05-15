@@ -1,4 +1,5 @@
-FILTRO BUTTERWORTH PASA-BAJOS 
+1. FILTRO BUTTERWORTH PASA-BAJOS 
+
 El Filtro Butterworth Pasa-bajos es uno de los filtros digitales más usados en el procesamiento de señales biomédicas, ya que presenta una respuesta en frecuencia suave y sin ondulaciones en la banda de paso. Esto permite conservar la forma original de la señal biológica mientras elimina componentes de alta frecuencia no deseados [1]. 
 Este filtro se utiliza para reducir el ruido de alta frecuencia producido por interferencias electromagnéticas, movimiento muscular, artefactos electrónicos y ruidos que vienen de equipos eléctricos. En señales biomédicas, el ruido se encuentra fuera del rango de frecuencia útil de la señal, por lo que el filtro atenúa dichas frecuencias y deja pasar únicamente la información importante [1]. 
 En señales EMG, el filtro Butterworth pasa-bajos se emplea con frecuencias de corte alrededor de 400 Hz para eliminar ruido de alta frecuencia y conservar la actividad muscular importante [1].
