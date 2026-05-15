@@ -60,7 +60,7 @@ En cuanto al EKG, los filtros FIR se diseñan típicamente para preservar el ran
 En señales EEG, los filtros FIR se utilizan frecuentemente para aislar bandas cerebrales específicas, permitiendo análisis espectrales independientes de delta (0.5–4 Hz), theta (4–8 Hz), alpha (8–12 Hz), beta (12–30 Hz) y gamma (30–50 Hz). La cascada de múltiples filtros FIR pasa-banda, uno para cada banda cerebral, es común en sistemas de investigación clínica donde la fidelidad espectral es máxima [14]. Además, los filtros FIR notch pueden cascadarse para eliminar múltiples armónicos de la interferencia de red (50, 100, 150, 200 Hz) sin afectar las bandas de interés debido a su naturaleza de fase lineal, siendo especialmente útil en ambientes clínicos con alta contaminación electromagnética [12].
 Entre los ruidos que elimina el filtro FIR se encuentran artefactos de movimiento de baja frecuencia, ruido de alta frecuencia, interferencia de red eléctrica (con variantes notch), artefactos oculares en EEG, ruido muscular superpuesto en registros cardíacos, y componentes fuera de la banda de interés específica. Su principal ventaja es que proporciona la máxima fidelidad morfológica de la señal, garantizando que cualquier característica clínica importante se conserve sin distorsión de fase, lo que lo hace particularmente valioso en aplicaciones donde la precisión diagnóstica es crítica.
 
-6. FILTRO PASA-ALTOS
+5. FILTRO PASA-ALTOS
 
 El filtro pasa-altos es un filtro digital que permite el paso de componentes de frecuencia superiores a una frecuencia de corte establecida, mientras atenúa las frecuencias inferiores. Este filtro es complementario al filtro pasa-bajos y es esencial en el procesamiento de señales biomédicas para eliminar derivas de línea base y artefactos de movimiento que típicamente aparecen en las frecuencias más bajas del espectro [15].
 
@@ -77,21 +77,36 @@ Entre los ruidos que el filtro pasa-altos logra eliminar se encuentran la deriva
 
 BIBLIOGRAFÍA:
 [1] R. Mello, L. Oliveira y J. Nadal, “Digital Butterworth filter for subtracting noise from low magnitude surface electromyogram,” Computer Methods and Programs in Biomedicine, vol. 87, no. 1, pp. 28–35, 2007. DOI: 10.1016/j.cmpb.2007.04.004. Disponible en: https://www.sciencedirect.com/science/article/abs/pii/S0169260707000983
+
 [2] B. Septian, “Noise Suppression of ECG Signal Using Optimized Digital Butterworth Bandpass Filter,” Indonesian Journal of Computer Science, vol. 13, no. 4, 2024. DOI: 10.33022/ijcs.v13i4.4312. Disponible en: https://www.ijcs.net/ijcs/index.php/ijcs/article/view/4312/684
+
 [3] S. S. Daud and R. Sudirman, “Butterworth Bandpass and Stationary Wavelet Transform Filter Comparison for Electroencephalography Signal,” in 2015 6th International Conference on Intelligent Systems, Modelling and Simulation (ISMS), Kuala Lumpur, Malaysia, Feb. 2015, pp. 123–126, doi: 10.1109/ISMS.2015.29. Disponible en: https://ieeexplore.ieee.org/document/7311222
 
 [4] Z. Wang, J. Jiang, Y. Hu y B. Xiao, "Removal of Power Line Interference From ECG Signals Using Adaptive Notch Filters of Sharp Resolution," IEEE Transactions on Instrumentation and Measurement, vol. 68, no. 11, pp. 4676–4685, Nov. 2019. DOI: 10.1109/TIM.2019.2940710. Disponible en: https://ieeexplore.ieee.org/document/8850000
+
 [5] W. Huang y X. Li, "Design and Implementation of IIR Filters for Power Line Interference Removal in Intramuscular EMG Signals," en Proc. 4th Int. Conf. Signal Processing and Communication Technology (SPCT), ACM, 2024. DOI: 10.1145/3712464.3712465
+
 [6] S. Sultana y Md. A. U. Zaman, "Power line and ocular artifact denoising from EEG using notch filter and wavelet transform," en Proc. IEEE Int. Conf. Electrical, Computer and Communication Engineering (ECCE), Cox's Bazar, Bangladesh, 2016. DOI: 10.1109/ECACE.2016.7724548. Disponible en: https://ieeexplore.ieee.org/document/7724548
+
 [7] Chaddad A, Wu Y, Kateb R, Bouridane A. Electroencephalography Signal Processing: A Comprehensive Review and Analysis of Methods and Techniques. Sensors (Basel). 2023;23(14):6434. doi:10.3390/s23146434. PMID: 37514728. PMCID: PMC10385593. Disponible en: https://pubmed.ncbi.nlm.nih.gov/40422053/ 
+
 [8] Roland T, Amsuess S, Russold MF, Baumgartner W. Ultra-Low-Power Digital Filtering for Insulated EMG Sensing. Sensors (Basel). 2019;19(4):959. doi:10.3390/s19040959. PMID: 30813494. PMCID: PMC6412999. Disponible en https://pmc.ncbi.nlm.nih.gov/articles/PMC6412999/ 
+
 [9] Huang W, Li X. Design and Implementation of IIR Filters for Power Line Interference Removal in Intramuscular EMG Signals. En: SPCT '24: Proceedings of the 2024 4th International Conference on Signal Processing and Communication Technology. New York: ACM; 2024. doi:10.1145/3712464.3712465. Disponible en: https://dl.acm.org/doi/10.1145/3712464.3712465 
+
 [10] Gadawe NT, Hamad RW, Qaddoori SL. Realization of IIR Digital Filter Structures for ECG Denoising. Journal of Electrical Systems and Architecture (JESA). 2024;57(2):599-608. doi:10.18280/jesa.570228. Disponible en: https://iieta.org/journals/jesa/paper/10.18280/jesa.570228 
+
 [11] Avital N, Shulkin N, Malka D. Automatic Calculation of Average Power in Electroencephalography Signals for Enhanced Detection of Brain Activity and Behavioral Patterns. Biosensors (Basel). 2025;15(5):314. doi:10.3390/bios15050314. PMID: 40422053. PMCID: PMC12110619. Disponible en: https://pubmed.ncbi.nlm.nih.gov/40422053/ 
+
 [12] L. Zhang, M. Bao y G. Wu, "FIR Filter Design for Biomedical Signal Processing with Linear Phase and Minimal Delay," IEEE Access, vol. 8, pp. 156789–156801, 2020. DOI: 10.1109/ACCESS.2020.3019425. Disponible en: https://ieeexplore.ieee.org/document/9088245
+
 [13] M. Teplan, "Fundamentals of EEG Measurement," Measurement Science Review, vol. 2, no. 2, pp. 1–11, 2002. DOI: 10.2478/v10048-012-0001-2. Disponible en: https://www.degruyter.com/document/doi/10.2478/v10048-012-0001-2/html
+
 [14] T. Kailath, A. H. Sayed, y B. Hassibi, Linear Estimation. Prentice Hall, 2000. ISBN: 978-0130224645. Disponible en: https://www.pearson.com/en-us/subject-catalog/p/linear-estimation/P200000006625
+
 [15] J. García y P. López, "High-Pass Filter Implementation in ECG and EEG Systems: Clinical Requirements and Design Considerations," Biomedical Engineering Letters, vol. 10, no. 3, pp. 287–298, 2020. DOI: 10.1007/s13534-020-00158-5. Disponible en: https://link.springer.com/article/10.1007/s13534-020-00158-5
+
 [16] M. Sörnmo y P. Laguna, Biomedical Signal Processing in Cardiac and Neurological Applications. Academic Press, 2005. ISBN: 978-0121228620. Disponible en: https://www.elsevier.com/books/biomedical-signal-processing-in-cardiac-and-neurological-applications/sornmo/978-0-12-122862-0
+
 [17] A. Mognon, M. Jovicich, L. Bruzzone, y M. Buiatti, "ADJUST: An Automatic EEG Artifact Detector based on the Joint Use of Spatial and Temporal Properties," Neuroimage, vol. 112, pp. 275–283, 2015. DOI: 10.1016/j.neuroimage.2015.02.012. Disponible en: https://www.sciencedirect.com/science/article/pii/S1053811915001184
 
