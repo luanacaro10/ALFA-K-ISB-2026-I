@@ -25,7 +25,7 @@ Nuestra propuesta de solución consiste en desarrollar un dispositivo no invasiv
 
 ### 1. Selección de sensores
 
-Del kit disponible, los únicos dos sensores con justificación fisiológica directa para detección de estrés son el sensor ECG y el sensor EDA. El sensor de Pulso (PPG) sería redundante dado que el ECG ya proporciona información más precisa sobre el ritmo cardíaco. El sensor de Respiración (PZT) tiene valor complementario pero añade complejidad de colocación y análisis. El sensor LUX solo sería útil como variable de control ambiental, no como señal fisiológica.
+Se empleará el BITalino PsychoBIT, específicamente el sensor ECG y el sensor EDA.
 
 La combinación ECG y EDA permite una caracterización objetiva, continua y complementaria de las respuestas autonómicas al estrés [10]. Más aún, el ECG, la actividad electrodérmica (EDA) y la respiración han sido identificados como biomarcadores confiables del estrés, con modelos de clasificación binaria alcanzando precisiones de hasta 99.78% en datos controlados [11]. La EDA en particular captura la activación de las glándulas sudoríparas vía el sistema nervioso simpático, un mecanismo complementario al que refleja el ECG a través de la modulación autonómica cardíaca.
 
