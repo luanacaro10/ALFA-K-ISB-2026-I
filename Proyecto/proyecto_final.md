@@ -21,6 +21,66 @@ La literatura científica confirma que la VFC es una medida válida de la respue
 ## Propuesta de solución
 Nuestra propuesta de solución consiste en desarrollar un dispositivo no invasivo que pueda monitorear en tiempo real la señal ECG y detectar situaciones de estrés guiándonos de la VFC. Al momento de identificarlo, el sistema enviará un contenido de apoyo emocional mediante un mensaje vía Telegram, para que el estudiante pueda gestionar su ansiedad y tratar de calmarse antes de su examen.
 
+## Metodología
+
+### 1. Selección de sensores
+
+Del kit disponible, los únicos dos sensores con justificación fisiológica directa para detección de estrés son el sensor ECG y el sensor EDA. El sensor de Pulso (PPG) sería redundante dado que el ECG ya proporciona información más precisa sobre el ritmo cardíaco. El sensor de Respiración (PZT) tiene valor complementario pero añade complejidad de colocación y análisis. El sensor LUX solo sería útil como variable de control ambiental, no como señal fisiológica.
+
+La combinación ECG y EDA permite una caracterización objetiva, continua y complementaria de las respuestas autonómicas al estrés [10]. Más aún, el ECG, la actividad electrodérmica (EDA) y la respiración han sido identificados como biomarcadores confiables del estrés, con modelos de clasificación binaria alcanzando precisiones de hasta 99.78% en datos controlados [11]. La EDA en particular captura la activación de las glándulas sudoríparas vía el sistema nervioso simpático, un mecanismo complementario al que refleja el ECG a través de la modulación autonómica cardíaca.
+
+### 2. Protocolo para la inducción de estrés
+
+Se propone adaptar el Mental Arithmetic Stress Test combinado con elementos del Stroop Color-Word Test para inducir estrés cognitivo sostenido con respuesta fisiológica reproducible [13] [14].
+
+El ECG se registra en participantes en reposo durante 15 minutos y durante un test de matemática mental de 15 minutos en el que los sujetos compiten entre sí, diciéndoles que su desempeño sería registrado, lo que busca inducir mayor estrés mental [15].
+
+### 3. Duración de cada fase
+
+La duración de registro está determinada por el parámetro HRV. El análisis de HRV de corto plazo ha sido investigado para la evaluación del estrés mental, siendo nominalmente 5 minutos el estándar establecido por la Task Force de la Sociedad Europea de Cardiología [16].
+
+Un estudio que adquirió ECGs de 42 sujetos saludables durante un examen universitario y en condición de reposo, extrayendo 23 características de HRV en ventanas de 30 s, 1 min, 2 min, 3 min y 5 min, demostró que ventanas de al menos 2 minutos son válidas como sustituto del estándar de 5 minutos para detección de estrés mental. Con ello se realizó un análisis frecuencial de la HRV, específicamente de las bandas LF y HF, que es el más informativo para caracterizar el balance simpático/parasimpático [17].
+
+### 4. Estructura del protocolo
+
+Se plantea que la sesión completa tenga una duración de aproximadamente 35 minutos.
+
+#### Fase de Preparación (5 min)
+
+- Se colocan los electrodos ECG en configuración Einthoven Lead I.
+- Se colocan los electrodos EDA en las falanges medias de los dedos índice y medio de la mano no dominante.
+- El sujeto lee y completa un formulario de variables de control (consumo de cafeína, horas de sueño, medicamentos, actividad física previa).
+
+#### Fase Basal (7 min)
+
+- El sujeto permanece sentado, en silencio, con los ojos abiertos, mirando un punto fijo en la pared.
+- No se permite hablar, moverse ni usar el celular.
+- Se debe reducir el ruido del ambiente.
+
+#### Fase de Inducción de estrés (8 min)
+
+Se aplica una combinación de dos estresores cognitivos en secuencia:
+
+**Stroop Test (3 min)**
+
+- Se presenta al sujeto una pantalla con nombres de colores escritos en un color diferente y debe decir el color de la tinta, no leer la palabra.
+- Se busca una mayor activación del sistema nervioso simpático, que se evidencia por una frecuencia cardiaca significativamente más alta y niveles de HRV más bajos.
+
+**Aritmética Mental con presión de tiempo (5 min)**
+
+- Se trata de resolver operaciones matemáticas de dificultad media-alta tal como multiplicaciones de 3 dígitos o series de resta en serie con un temporizador visible.
+- Se requiere que los participantes preparen y entreguen un discurso, y respondan verbalmente a un problema aritmético desafiante ante una audiencia socialmente evaluativa.
+- Se deben evaluar la velocidad y precisión de cada participante para informarles de su desempeño.
+
+#### Fase de Recuperación (5 min)
+
+- El sujeto realiza respiración guiada (inhalación, retención, exhalación).
+
+#### Fase de Validación subjetiva (3 min)
+
+- El sujeto completa una escala visual analógica simple de 0 a 10 para cada fase.
+- Esto permite confirmar que el protocolo indujo estrés subjetivo que sirve como etiqueta de referencia para el modelo.
+
 ## Plan de actividades
 - **Semana 3** Establecer las especificaciones técnicas del sensor principal (ECG). Para ello, se propone investigar los módulos de adquisición del ritmo cardíaco disponibles en el mercado y seleccionar el más adecuado según su precisión, costo y otros criterios a evaluar. Asimismo, se propone definir los parámetros de la señal ECG, tal como la frecuencia de muestreo, la ventana de análisis y las métricas de la VFC más sensibles asociados al estrés.
   
@@ -69,6 +129,20 @@ Nuestra propuesta de solución consiste en desarrollar un dispositivo no invasiv
 
 [9] F. Shaffer and J. P. Ginsberg, “An overview of heart rate variability metrics and norms,” Front. Public Health, vol. 5, p. 258, 2017.
 
+[10] L. Santamaria-Granados et al., "Multimodal Classification Algorithms for Emotional Stress Analysis with an ECG-Centered Framework," *AI*, MDPI, 2026. doi:10.3390/ai7020063.
 
+[11] D. Garg et al., "A machine-learning approach for stress detection using wearable sensors in free-living environments," *Computers in Biology and Medicine*, ScienceDirect, 2024. doi:10.1016/S0010-4825(24)01003-5.
+
+[12] R. Zangróniz et al., "Electrodermal Activity Sensor for Classification of Calm/Distress Condition," *Sensors*, 2017. PMC5677183.
+
+[13] L. Zhu et al., "Stress Detection Through Wrist-Based Electrodermal Activity Monitoring and Machine Learning," *IEEE J. Biomed. Health Inform.*, 2023. PMID: 37022004.
+
+[14] J. Stimpfl et al., "The Stroop Competition: A Social-Evaluative Stroop Test for Acute Stress Induction," 2022.
+
+[15] M. Burke et al., "The Female Heart: Sex Differences in the Dynamics of ECG in Response to Stress," *bioRxiv*, 2018. doi:10.1101/368845.
+
+[16] R. Castaldo et al., "Ultra-short term HRV features as surrogates of short term HRV: a case study on mental stress detection in real life," *BMC Medical Informatics and Decision Making*, 2019. PMC6335694.
+
+[17] C. Kirschbaum et al., "The Trier Social Stress Test protocol for inducing psychological stress," *PubMed*, PMID: 22042290.
 
 
