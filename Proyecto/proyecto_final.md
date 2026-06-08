@@ -45,19 +45,19 @@ Un estudio que adquirió ECGs de 42 sujetos saludables durante un examen univers
 
 Se plantea que la sesión completa tenga una duración de aproximadamente 35 minutos.
 
-#### Fase de Preparación (5 min)
+#### Fase de preparación (5 min)
 
 - Se colocan los electrodos ECG en configuración Einthoven Lead I.
 - Se colocan los electrodos EDA en las falanges medias de los dedos índice y medio de la mano no dominante.
 - El sujeto lee y completa un formulario de variables de control (consumo de cafeína, horas de sueño, medicamentos, actividad física previa).
 
-#### Fase Basal (7 min)
+#### Fase basal (7 min)
 
 - El sujeto permanece sentado, en silencio, con los ojos abiertos, mirando un punto fijo en la pared.
 - No se permite hablar, moverse ni usar el celular.
 - Se debe reducir el ruido del ambiente.
 
-#### Fase de Inducción de estrés (8 min)
+#### Fase de inducción de estrés (8 min)
 
 Se aplica una combinación de dos estresores cognitivos en secuencia:
 
@@ -72,11 +72,11 @@ Se aplica una combinación de dos estresores cognitivos en secuencia:
 - Se requiere que los participantes preparen y entreguen un discurso, y respondan verbalmente a un problema aritmético desafiante ante una audiencia socialmente evaluativa.
 - Se deben evaluar la velocidad y precisión de cada participante para informarles de su desempeño.
 
-#### Fase de Recuperación (5 min)
+#### Fase de recuperación (5 min)
 
 - El sujeto realiza respiración guiada (inhalación, retención, exhalación).
 
-#### Fase de Validación subjetiva (3 min)
+#### Fase de validación subjetiva (3 min)
 
 - El sujeto completa una escala visual analógica simple de 0 a 10 para cada fase.
 - Esto permite confirmar que el protocolo indujo estrés subjetivo que sirve como etiqueta de referencia para el modelo.
