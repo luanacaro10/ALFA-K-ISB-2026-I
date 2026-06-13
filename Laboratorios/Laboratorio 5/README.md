@@ -21,8 +21,7 @@ Año 2026
 
 La electroencefalografía (EEG) es una técnica de adquisición de señales biomédicas que permite registrar la actividad eléctrica del cerebro mediante electrodos colocados sobre el cuero cabelludo. Esta técnica es fundamental en neurofisiología clínica, investigación neurocientífica y aplicaciones en interfaces cerebro-computadora (BCI).
 
-El presente experimento tuvo como objetivo adquirir y analizar señales EEG en diferentes condiciones comportamentales para identificar patrones característicos de actividad cerebral. Se empleó el dispositivo BITalino (r)evolution Board Kit BLE/BT con software OpenSignals, siguiendo el protocolo de la guía de clase N°4 del curso Introducción a Señales Biomédicas.
-
+El presente experimento tuvo como objetivo adquirir y analizar señales EEG en diferentes condiciones comportamentales para identificar patrones característicos de actividad cerebral. Se empleó el dispositivo BITalino (r)evolution Board Kit BLE/BT con software OpenSignals, siguiendo el protocolo de la guía de clase del curso.
 Las bandas de frecuencia EEG estudiadas incluyen:  
 - Delta: Modo sueño (0–4 Hz)  
 - Theta: Modo somnolencia (4–8 Hz)  
@@ -50,7 +49,7 @@ Se utilizaron los siguientes materiales y equipos:
 
 ### 2.2 Procedimiento Experimental
 
-El experimento se llevó a cabo siguiendo el protocolo establecido en la guía de práctica N°4. Se registraron señales EEG del canal A4 a una frecuencia de muestreo de 100 Hz, cumpliendo con el teorema de muestreo de Nyquist-Shannon (mínimo 2 × 48 Hz = 96 Hz).
+El experimento se llevó a cabo siguiendo el protocolo establecido en la guía de práctica correspondiente. Se registraron señales EEG del canal A4 a una frecuencia de muestreo de 100 Hz, cumpliendo con el teorema de muestreo de Nyquist-Shannon (mínimo 2 × 48 Hz = 96 Hz).
 
 Los electrodos se colocaron en la posición Fp2 (frontal derecha) del sistema internacional 10-20, con electrodo de referencia en la región mastoidea derecha.
 
