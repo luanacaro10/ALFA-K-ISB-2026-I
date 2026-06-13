@@ -1,8 +1,8 @@
-# INFORME DE EXPERIMENTO EEG  
+# INFORME LABORATORIO EEG ( Electroencefalograma )
 ## Adquisición de Señales Electroencefalográficas  
 ### Introducción a Señales Biomédicas  
 Universidad Peruana Cayetano Heredia  
-Facultad de Medicina  
+Facultad de Ciencias e Ingeniería  
 Año 2026  
 
 ---
