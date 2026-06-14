@@ -1,4 +1,4 @@
-# INTRODUCCIÓN A SEÑALES BIOMÉDICAS - PROYECTO FINAL
+# INTRODUCCIÓN A SEÑALES BIOMÉDICAS
 
 ## Introducción
 El estrés académico es una respuesta frecuente en estudiantes universitarios ante situaciones de alta demanda cognitiva, como exámenes o actividades evaluativas. Esta respuesta genera cambios fisiológicos que pueden medirse de manera objetiva mediante señales biomédicas.
