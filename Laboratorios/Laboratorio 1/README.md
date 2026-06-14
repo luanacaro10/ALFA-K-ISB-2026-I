@@ -24,6 +24,7 @@ El presente proyecto busca identificar cambios fisiológicos asociados al estré
 
 
 - Alexandra Camila Lema Torres
+
 Estudiante de 7mo ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Me considero una persona responsable, perseverante y comprometida con mi desarrollo académico y profesional. Me gusta aprender constantemente, trabajar en equipo y aplicar la tecnología para generar soluciones innovadoras en el área de la salud en el Perú.
   
 - Kiara Muñoz Benites
