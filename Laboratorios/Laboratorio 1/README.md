@@ -29,3 +29,5 @@ Estudiante de 7mo ciclo de la carrera de Ingeniería Biomédica PUCP-UPCH. Me co
   
 - Kiara Muñoz Benites
 
+Estudiante de 8vo ciclo  con interés en las áreas de ingeniería clínica, tecnología médica, dispositivos biomédicos y gestión clínica de equipos. Busco aplicar mis
+conocimientos en el desarrollo de soluciones que integren la ingeniería y la práctica clínica para mejorar la calidad de atención y resultados en pacientes. Me motiva la investigación interdisciplinaria y la innovación tecnológica orientada a la salud, especialmente en proyectos que vinculen diseño de dispositivos, evaluación clínica de tecnología médica y optimización de procesos hospitalarios.
