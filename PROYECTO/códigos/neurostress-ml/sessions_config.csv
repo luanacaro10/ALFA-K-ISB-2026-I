@@ -1,0 +1,13 @@
+participant,filepath,phase,label
+p2,data/raw/p2_basal.txt,basal,0
+p2,data/raw/p2_stroop.txt,stroop,1
+p2,data/raw/p2_mist.txt,mist,1
+p2,data/raw/p2_basal2.txt,basal2,0
+p3,data/raw/p3_basal.txt,basal,0
+p3,data/raw/p3_stroop.txt,stroop,1
+p3,data/raw/p3_mist.txt,mist,1
+p3,data/raw/p3_basal2.txt,basal2,0
+p4,data/raw/p4_basal.txt,basal,0
+p4,data/raw/p4_stroop.txt,stroop,1
+p4,data/raw/p4_mist.txt,mist,1
+p4,data/raw/p4_basal2.txt,basal2,0
